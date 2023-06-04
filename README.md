@@ -1,3 +1,3 @@
 # FlowerShop-Backend
 
-Homework task
+Home task
